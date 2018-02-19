@@ -86,7 +86,7 @@ if(isset($_POST['submit_match_details_selection']))
                             <option value="Mumbai">Mumbai</option>
 							<option value="Kolkata">Kolkata</option>	
 							<option value="Hydrabad">Hydrabad</option>
-							<option value="Rajsthan">Rajsthan</option>
+							<option value="Rajasthan">Rajasthan</option>
 							<option value="Bangalore">Bangalore</option>
                             </select>
 							
