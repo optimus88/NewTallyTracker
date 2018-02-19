@@ -393,12 +393,12 @@ CREATE TABLE IF NOT EXISTS `tally_teams` (
 --
 
 INSERT INTO `tally_teams` (`team_id`, `team_name`, `team_series`, `team_active_flag`, `team_home_ground`) VALUES
-('RPS', 'Rising Pune Supergiants', 'IPL', 1, 'Pune'),
+('RR', 'Rajasthan Royals', 'IPL', 1, 'Rajasthan'),
 ('DD', 'Delhi Daredevils', 'IPL', 1, 'Delhi'),
 ('PUN', 'Kings Punjab', 'IPL', 1, 'Punjab'),
 ('KKR', 'Kolkata Knight Riders', 'IPL', 1, 'Kolkata'),
 ('MI', 'Mumbai Indians', 'IPL', 1, 'Mumbai'),
-('GL', 'Gujarat Lions', 'IPL', 1, 'Rajkot'),
+('CSK', 'Chennai Super Kings', 'IPL', 1, 'Chennai'),
 ('RCB', 'Royal Challengers Bangalore', 'IPL', 1, 'Bangalore'),
 ('SRH', 'Sunrisers Hydrabad', 'IPL', 1, 'Hyderabad'),
 ('IND', 'India', 'WCT20', 1, '0'),
